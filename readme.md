@@ -4,6 +4,10 @@ Your Foursquare History mapped...
 v2.0 &copy; 2011 by David Schmidt, <a href="http://individual8.com">http://individual8.com</a><br />
 Email me with questions or any inquiries: <a href="mailto:david@individual8.com">david@individual8.com</a>
   
+Live demo
+-
+You can find a live demo of this script at <a href="http://v9.individual8.com/ext/4sq/">v9.individual8.com/ext/4sq</a>
+
 Three easy steps
 -
 Requires PHP 5 on your web server.
@@ -13,7 +17,7 @@ Three easy steps!
 <b>Step 1</b><br />
 Edit config.php, and add your personal Foursquare RSS feed. 
 
-You'll find your feed at https://foursquare.com/feeds.
+You'll find your feed at <a href="https://foursquare.com/feeds">foursquare.com/feeds</a>.
           
 The URL should look like this:<br />
 e.g. http://feeds.foursquare.com/history/8eb7a6350886ef4f4b680d89933fb4fc.rss
