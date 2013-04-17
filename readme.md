@@ -28,6 +28,6 @@ Save config.php and upload it together with the other files in any web folder on
 <b>Step 3</b><br />
 Call the script from your web browser. Share it with your friends.
 
-Let me know.
+Let me know
 -
 If you like, send me a link of your page to my above email address. I might compile a list of people using the tool at some point and link to you.
