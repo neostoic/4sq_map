@@ -4,10 +4,6 @@ Your Foursquare History mapped...
 v2.0 &copy; 2011 by David Schmidt, <a href="http://individual8.com">http://individual8.com</a><br />
 Email me with questions or any inquiries: <a href="mailto:david@individual8.com">david@individual8.com</a>
   
-Live demo
--
-You can find a live demo of this script at <a href="http://v9.individual8.com/ext/4sq/">v9.individual8.com/ext/4sq</a>
-
 Three easy steps
 -
 Requires PHP 5 on your web server.
