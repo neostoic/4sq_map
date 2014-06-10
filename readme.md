@@ -4,7 +4,7 @@ Your Foursquare History mapped...
 v2.0 &copy; 2011 by David Schmidt, <a href="http://individual8.com">http://individual8.com</a><br />
 Email me with questions or any inquiries: <a href="mailto:david@individual8.com">david@individual8.com</a>
 
-You might also be interested in the successor to this little project.
+You might also be interested in the successor to this little project.<br />
 A service called Getmapped/at. Check it out at <a href="http://getmapped.at">http://getmapped.at</a>
   
 Three easy steps
