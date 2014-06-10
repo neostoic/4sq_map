@@ -3,6 +3,12 @@ Your Foursquare History mapped...
 
 v2.0 &copy; 2011 by David Schmidt, <a href="http://individual8.com">http://individual8.com</a><br />
 Email me with questions or any inquiries: <a href="mailto:david@individual8.com">david@individual8.com</a>
+
+<div style="background:#999;color:#fff;padding:20px;max-width:500px">
+You might also be interested in the successor to this little project.
+
+A service called Getmapped/at. Check it out at <a style="color:#fff;text-decoration:underline" href="http://getmapped.at">http://getmapped.at</a>
+</div>
   
 Three easy steps
 -
